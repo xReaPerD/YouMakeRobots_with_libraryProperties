@@ -1,0 +1,9 @@
+name=YouMakeRobots
+version=1.0.0
+author=Vincent Mistler
+maintainer=YouMakeTech <youmaketech@orange.fr>
+sentence=Arduino library for controlling YouMakeRobots devices.
+paragraph=This library provides functions to control and interact with various robotic components provided by YouMakeRobots. It includes support for servos, sensors, and other robotic actuators.
+category=Robotics
+url=https://github.com/YouMakeTech/YouMakeRobots
+architectures=*
