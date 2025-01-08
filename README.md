@@ -1,4 +1,4 @@
-# Link to the origional repository
+# Link to the original repository
 https://github.com/YouMakeTech/YouMakeRobots
 
 # YouMakeRobots
